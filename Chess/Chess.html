@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Шахматный Блог</title>
+<style>
+    .blog-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #f9f9f9;
+    }
+    .blog-post {
+        position: relative;
+        border: 1px solid #000;
+        margin: 10px;
+        padding: 10px;
+        width: 300px;
+        text-align: center;
+        background-color: #ffffff;
+    }
+    .blog-post:hover .delete-button {
+        display: block;
+    }
+    .delete-button {
+        display: none;
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        cursor: pointer;
+    }
+    .blog-image {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+<div class="blog-container">
+    <h1>Шахматный Блог</h1>
+    
+    <div class="blog-post">
+        <h2>Что такое шахматы?</h2>
+        <p>Шахматы — это стратегическая настольная игра, которая заставляет игроков думать на несколько ходов вперед, предвосхищая ходы противника.</p>
+        <img src="c1.jpg" class="blog-image">
+    </div>
+
+    <div class="blog-post">
+        <h2>Что требуют шахматы?</h2>
+        <p>Они требуют глубокого понимания тактики, позиционной игры и способности адаптироваться к меняющейся динамике игры.</p>
+        <img src="c2.jpg" class="blog-image">
+    </div>
+
+    <div class="blog-post">
+        <h2>Чем известны шахматы?</h2>
+        <p>Благодаря своей богатой истории и статусу интеллектуального спорта, шахматы известны тем, что они развивают навыки критического мышления и способствуют развитию терпения и концентрации внимания.</p>
+        <img src="c3.jpg" class="blog-image">
+    </div>
+
+</div>
+</body>
+</html>

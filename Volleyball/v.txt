@@ -1,0 +1,18 @@
+
+
+        <h2>What is volleyball?</h2>
+        <p>Volleyball is a team sport played on a rectangular court divided by a net, with each team aiming to score points by sending the ball over the net and into the opponent's court.</p>
+        <img src="v1.jpg"  class="blog-image">
+
+
+        <h2>About the game</h2>
+        <p>Players use a combination of skills such as serving, passing, setting, attacking, and blocking to outplay their opponents. </p>
+        <img src="v2.jpg" class="blog-image">
+
+
+        <h2>About the usefullness of the game</h2>
+        <p>With its emphasis on teamwork, communication, and quick decision-making, volleyball is a thrilling and engaging sport that promotes physical fitness and coordination</p>
+        <img src="v3.jpg" class="blog-image">
+    
+
+     

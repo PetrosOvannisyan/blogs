@@ -1,0 +1,20 @@
+
+
+        <h2>What is ping-pong?</h2>
+        <p>Ping-Pong, also known as table tennis, is a fast-paced indoor sport played on a small table divided by a net. </p>
+        <img src="p1.jpg"  class="blog-image">
+
+
+        <h2>About the rules</h2>
+        <p>Players use small paddles to hit a lightweight ball back and forth, aiming to outmaneuver their opponent with quick reflexes and precise shots.</p>
+        <img src="p2.jpg" class="blog-image">
+
+
+        <h2>Why ping-pong is popular?</h2>
+        <p> Popular for its accessibility and competitive nature, Ping-Pong can be played at various skill levels and is enjoyed by people of all ages.</p>
+        <img src="p3.jpg" class="blog-image">
+    
+
+
+ 
+

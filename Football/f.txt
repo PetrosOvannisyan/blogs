@@ -1,0 +1,22 @@
+
+
+        <h2>What is football?</h2>
+        <p>Football, also known as soccer in some countries, is a globally beloved sport that captures the hearts of millions. It requires skill, agility, and teamwork. </p>
+        <img src="f1.jpg"  class="blog-image">
+
+
+        <h2>What does football require?</h2>
+        <p>Football requires skill, agility, and teamwork.</p>
+        <img src="f2.jpg" class="blog-image">
+
+
+        <h2>About the rules of football</h2>
+        <p>The game is played between two teams of eleven players each, with the objective of scoring goals by kicking the ball into the opposing team's net.</p>
+        <img src="f3.jpg" class="blog-image">
+    
+
+        <h2>Not just a game</h2>
+        <p>Football is not just a game; it's a cultural phenomenon that unites people from diverse backgrounds and nations, creating a sense of camaraderie and passion.</p>
+        <img src="f4.jpg" class="blog-image">
+ 
+

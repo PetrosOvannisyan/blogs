@@ -1,0 +1,36 @@
+
+
+        
+
+
+    
+
+
+ 
+
+    <div class="blog-post">
+
+<h2>What is chess?</h2>
+        <p>Chess is a strategic board game that challenges players to think several moves ahead, anticipating their opponent's moves. </p>
+        <img src="c1.jpg"  class="blog-image">
+    </div>
+
+
+    <div class="blog-post">
+        <h2>What does chess require?</h2>
+        <p> It requires a deep understanding of tactics, positional play, and the ability to adapt to changing game dynamics. </p>
+        <img src="c2.jpg" class="blog-image">
+
+
+    </div>
+
+    <div class="blog-post">
+
+
+
+        <h2>What is chess known for?</h2>
+        <p>With its rich history and status as a mind sport, chess is known for enhancing critical thinking skills and fostering patience and concentration.</p>
+        <img src="c3.jpg" class="blog-image">
+
+
+    </div>

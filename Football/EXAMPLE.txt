@@ -1,0 +1,9 @@
+        
+
+    <div class="blog-post">
+    
+	<h2>Not just a game</h2>
+        <p>Football is not just a game; it's a cultural phenomenon that unites people from diverse backgrounds and nations, creating a sense of camaraderie and passion.</p>
+        <img src="f4.jpg" class="blog-image">
+    
+    </div>

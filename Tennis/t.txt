@@ -1,0 +1,19 @@
+
+
+        <h2>What is tennis?</h2>
+        <p>Tennis is a dynamic sport played on a rectangular court with a net dividing the playing area.</p>
+        <img src="t1.jpg"  class="blog-image">
+
+
+        <h2>The rules</h2>
+        <p>Players use racquets to hit a ball back and forth over the net, aiming to score points by making it difficult for their opponent to return the ball. </p>
+        <img src="t2.jpg" class="blog-image">
+
+
+        <h2>Why tennis is popular?</h2>
+        <p>Known for its fast-paced nature and physical demands, tennis requires agility, endurance, and mental resilience.</p>
+        <img src="t3.jpg" class="blog-image">
+    
+
+
+
